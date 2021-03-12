@@ -1,0 +1,4 @@
+.idea/
+*.secrets
+secrets.json
+cmd/gocord/secrets.json
